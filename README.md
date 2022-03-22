@@ -1,6 +1,6 @@
 👋 Hello... My full name is Ihsanulisra Maulana. You can call me Ihsan. I am an Information Technology from President University with a GPA of 3.73 in semester 5. I am very passionate about mobile and website technology using Javascript. Currently I am learning Next Js for designing web. See on my progress.
 
-## 💻 Experiences
+## Languages and tools:
 - Html, css, boostrap
 - Pure JavaScript
 - GIT & GITHUB
