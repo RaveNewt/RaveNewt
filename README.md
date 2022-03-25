@@ -12,6 +12,7 @@
 - Next Js
 - Typescript
 - Web 3.0
+- flutter
 
 ### 🚀 My Social Media:
 - Email: [Ihsanulisra@gmail.com](ihsanulisra@gmail.com)
