@@ -13,6 +13,7 @@
 - Typescript
 - Web 3.0
 - flutter
+- golang
 
 ### 🚀 My Social Media:
 - Email: [Ihsanulisra@gmail.com](ihsanulisra@gmail.com)
