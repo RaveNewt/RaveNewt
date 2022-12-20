@@ -5,15 +5,6 @@
 👋 Hello... My full name is Ihsanulisra Maulana. You can call me Ihsan. I am an Information Technology from President University with a GPA of 3.75 in semester 6. A creative person also quickly adapts to the work environment. Have expertise in collaboration with teams. Also, have the skills to motivate people. Active in learning skills for digital and technological needs that continue to develop. I am very passionate about mobile and website technology using Javascript. Currently I am learning Next Js for designing web. See on my progress.
 
 ## Languages and tools:
-- Html, css, Javascript
-- Tailwind CSS
-- React Js
-- Next Js
-- Express Js
-- Python
-- Flutter
-- MongoDb, MySql, Firebase
-
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -39,13 +30,10 @@
 - golang
 
 ### 🚀 My Social Media:
-- Email: [Ihsanulisra@gmail.com](ihsanulisra@gmail.com)
-- LinkedIn: [Ihsanulisra Maulana](https://www.linkedin.com/in/ihsanulisra-maulana-a226491b5/)
-- Instagram: [@varpol_sword](https://www.instagram.com/varpol_sword/)
 <p align="left">
-<a href="https://twitter.com/NewtHush" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rahuldkjain" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ihsanulisra-maulana-a226491b5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahuldkjain" height="30" width="40" /></a>
-<a href="https://www.instagram.com/pro_newt/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rahul_dk_jain" height="30" width="40" /></a>
+<a href="https://twitter.com/NewtHush" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" alt="RaveNewt" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ihsanulisra-maulana-a226491b5/" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="RaveNewt" height="30" width="40" /></a>
+<a href="https://www.instagram.com/pro_newt/" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" alt="RaveNewt" height="30" width="40" /></a>
 </p>
 
 ---
