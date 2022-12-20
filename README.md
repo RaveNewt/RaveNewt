@@ -2,18 +2,16 @@
 
 ## Languages and tools:
 - Html, css, Javascript
-- Bootstrap
+- Tailwind CSS
 - React Js
-- GIT & GITHUB
+- Next Js
 - Express Js
-- python
-- MongoDb, MySql
+- Python
+- Flutter
+- MongoDb, MySql, Firebase
 
 ### 🔍 Currently Learning:
-- Next Js
-- Typescript
 - Web 3.0
-- flutter
 - golang
 
 ### 🚀 My Social Media:
