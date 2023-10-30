@@ -38,7 +38,6 @@
 
 ---
 
-[comment]: # ([![RaveNewt Github Stats](https://github-readme-stats.vercel.app/api?username=RaveNewt&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/RaveNewt))
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaveNewt&layout=compact)](https://github.com/RaveNewt)
 
 
